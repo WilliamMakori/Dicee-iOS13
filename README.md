@@ -3,12 +3,11 @@
 
 ## The Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+The goal of this project is to help me understand the core programming concepts that form the foundation of most apps I’ll build in the future. By creating this dice app, I’ll learn a lot of essential programming skills while building something fun and useful.
 
 ## What I created 
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
-
+I’m going to make a Las Vegas dice app. I’ll make the die roll at the press of a button or by shaking my phone. With this app in my pocket, I’ll be fully set up to settle any score on the go!
 
 ## What I learned
 
